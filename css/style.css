@@ -1,23 +1,4 @@
-
-.column {
-    float:left;
-    width: 33.33%;
-}
-  
-/* Clear floats after the columns */
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
-
-}
-
 .container{
-   margin: auto;
-   width: 50%;
-}
-
-.container-2{
    margin: auto;
    width: 50%;
 }
@@ -26,9 +7,6 @@
 .grid-container{
     display: inline-grid;
     grid-template-columns: auto auto auto;
-    grid-column-gap: 40px;
-}
-
-.grid-item{
-
+    /* grid-column-gap: 50px; */
+    grid-auto-columns: 50px;
 }
