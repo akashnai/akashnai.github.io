@@ -1,0 +1,4 @@
+back button hits snake
+start button
+instruction to play the game
+mute button
