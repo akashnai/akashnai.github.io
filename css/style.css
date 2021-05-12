@@ -7,18 +7,34 @@
 }
 
 .container{
-   margin: auto;
-   width: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 1200px;
+    height: 600px;
+    background-color: antiquewhite;
+    margin: auto;
+    justify-content: space-evenly;
+    
 }
 
-
-.grid-container{
-    display: inline-grid;
-    grid-template-columns: auto auto auto;
-    grid-column-gap: 50px;
+.items{
+    width: 180px;
+    height: 180px;
+    background-color:rgb(85, 64, 69);
+    color: white;
+    margin: 20px;
+    box-sizing: border-box;
+    font-size: 35px;
+    padding: 45px 0;
+    text-align: center;
+    
 }
-
-.grid-items{
-    padding: 20px;
-    background-color: aqua;
+a{
+    text-decoration: none;
+}
+ 
+.items:hover{
+    background-color: crimson;
+    
 }
