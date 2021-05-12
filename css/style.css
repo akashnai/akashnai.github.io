@@ -12,6 +12,7 @@
     user-select: none;
 }
 
+
 h3{
     font-size: 35px;
 }
@@ -41,7 +42,7 @@ body {
   
   box-sizing: border-box;
   font-size: 35px;
-  padding: 50px 0;
+  padding: 45px 0;
   text-align: center;
 
   /* glass morphism */
@@ -60,4 +61,30 @@ a {
 .items:hover {
     background-color: rgba(255, 255, 255, 0.349);
     color: white;
+}
+
+
+
+a:link {
+  color:black ;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(143, 61, 143);
+  background-color: transparent;
+  /* text-decoration: underline; */
+}
+
+a:active {
+  color: purple;
+  background-color: transparent;
+  /* text-decoration: underline; */
 }
