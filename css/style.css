@@ -33,7 +33,7 @@ body {
   flex-wrap: wrap;
   align-items: flex-start;
   max-width: 1200px;
-  height: 600px;
+  height: auto;
   margin: auto;
   justify-content: space-evenly;
 }
