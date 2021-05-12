@@ -5,13 +5,16 @@
     font-family: "PT Sans", sans-serif;
 }
 
-h1{
+.header{
     text-align: center; 
     color: white;
     cursor: default;
     user-select: none;
 }
 
+h3{
+    font-size: 35px;
+}
 
 body {
   background-image: url(../images/background.jpg);
@@ -35,7 +38,7 @@ body {
   height: 180px;
   background-color: rgb(85, 64, 69);
   color: white;
-  margin: 20px;
+  
   box-sizing: border-box;
   font-size: 35px;
   padding: 50px 0;
