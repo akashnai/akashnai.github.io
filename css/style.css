@@ -66,13 +66,13 @@ a {
 
 
 a:link {
-  color:black ;
+  color:purple ;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: lavergb(143, 61, 143);
   background-color: transparent;
   text-decoration: none;
 }
@@ -84,7 +84,7 @@ a:hover {
 }
 
 a:active {
-  color: purple;
+  color: lavenderblush;
   background-color: transparent;
   /* text-decoration: underline; */
 }
