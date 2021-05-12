@@ -39,7 +39,7 @@ body {
   height: 180px;
   background-color: rgb(85, 64, 69);
   color: white;
-  
+  margin: 10px;
   box-sizing: border-box;
   font-size: 35px;
   padding: 45px 0;
