@@ -72,7 +72,7 @@ a:link {
 }
 
 a:visited {
-  color: lavergb(143, 61, 143);
+  color: lavenderblush;
   background-color: transparent;
   text-decoration: none;
 }
