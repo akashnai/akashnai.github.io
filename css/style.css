@@ -65,11 +65,7 @@ a {
 
 
 
-a:link {
-  color:purple ;
-  background-color: transparent;
-  text-decoration: none;
-}
+
 
 a:visited {
   color: lavenderblush;
