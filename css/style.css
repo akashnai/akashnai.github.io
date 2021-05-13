@@ -89,7 +89,7 @@ a:hover {
 }
 
 a:active {
-  color: green;
+  color: lavenderblush;
   background-color: transparent;
   /* text-decoration: underline; */
 }
