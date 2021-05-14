@@ -44,7 +44,7 @@ body {
   height: 180px;
   background-color: rgb(85, 64, 69);
   color: white;
-  margin: 0px;
+  margin: 10px;
   box-sizing: border-box;
   font-size: 35px;
   padding: 45px 0;
@@ -103,7 +103,7 @@ a:active {
     height: 150px;
     background-color: rgb(85, 64, 69);
     color: white;
-    margin: 10px;
+    margin: 0px;
     box-sizing: border-box;
     font-size: 30px;
     padding: 35px 0;
@@ -126,7 +126,7 @@ a:active {
     height: 180px;
     background-color: rgb(85, 64, 69);
     color: white;
-    margin: 10px;
+    margin: 0px;
     box-sizing: border-box;
     font-size: 35px;
     padding: 45px 0;
