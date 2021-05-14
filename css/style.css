@@ -69,10 +69,8 @@ body {
 .items {
   width: 180px;
   height: 180px;
-  background-color: rgb(85, 64, 69);
   color: white;
   text-decoration: none;
-  /* margin: 10px; */
   box-sizing: border-box;
   font-size: 35px;
   padding: 45px 0;
@@ -88,6 +86,17 @@ body {
 }
 
 #github {
+  text-decoration: none;
+}
+
+.items:link {
+  color:white ;
+  text-decoration: none;
+}
+
+
+.items:visited {
+  color: white;
   text-decoration: none;
 }
 
@@ -109,13 +118,11 @@ body {
 }
 
 #github:hover {
-  color: rgb(143, 61, 143);
+  color: rgb(107, 55, 107);
   background-color: transparent;
-  /* text-decoration: underline; */
 }
 
 #github:active {
   color: lavenderblush;
   background-color: transparent;
-  /* text-decoration: underline; */
 }
