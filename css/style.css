@@ -32,8 +32,9 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  align-items: flex-start;
+  align-items:flex-start;
   max-width: 1200px;
+  gap: 15px;
   height: auto;
   margin: auto;
   justify-content: space-evenly;
@@ -44,7 +45,7 @@ body {
   height: 180px;
   background-color: rgb(85, 64, 69);
   color: white;
-  margin: 10px;
+  /* margin: 10px; */
   box-sizing: border-box;
   font-size: 35px;
   padding: 45px 0;
