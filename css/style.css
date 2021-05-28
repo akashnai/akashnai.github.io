@@ -12,6 +12,12 @@
   user-select: none;
 }
 
+.homepage{
+    position: relative;
+    transform: translateY(20%);
+    top: 50%;
+}
+
 h1 {
   font-size: 60px;
 }
